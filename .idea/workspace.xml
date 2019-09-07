@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f423beae-957b-40ec-ac01-e1bf48c9449a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/root.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shared/_messages.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,14 +117,29 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1QTQEfgddK7frr1GsnNKhGZT12u" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xiaobuding\Code\larabbs\resources\views\pages" />
+      <recent name="C:\Users\xiaobuding\Code\larabbs\resources\views\shared" />
+      <recent name="C:\Users\xiaobuding\Code\larabbs\resources\views\layouts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,7 +171,7 @@
       <updated>1567791995100</updated>
       <workItem from="1567791996435" duration="1139000" />
       <workItem from="1567821909440" duration="248000" />
-      <workItem from="1567865372853" duration="1207000" />
+      <workItem from="1567865372853" duration="3591000" />
     </task>
     <servers />
   </component>
